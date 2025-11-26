@@ -123,12 +123,15 @@ height:40%;
     padding-top: 10%;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
-
-
-     
 footer{
     background-color:  rgb(228, 169, 204);
     padding-top: 50px;
-    padding-left: 2%;
+    padding-left: 5%;
 }
-
+.div-footer{
+   display: inline-block;
+  margin-left: 43%;
+}
+.nav-footer{
+    margin-left: 46%;
+}
